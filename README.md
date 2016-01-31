@@ -1,4 +1,4 @@
-# Back-kick
+# Back-Kick
 
 This README outlines the details of collaborating on this Ember addon.
 
@@ -24,3 +24,8 @@ This README outlines the details of collaborating on this Ember addon.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
+## Inspiration
+
+* Build an asynchronous web-worker queue for Ember. 
+* [sidekiq](https://github.com/mperham/sidekiq)
